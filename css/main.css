@@ -43,7 +43,7 @@ img {
 }
 
 .footer a {
-  color: #003442:
+  color: #003442;
 }
 
 .links {
@@ -57,7 +57,7 @@ img {
 }
 
 .social > li {
-  margin: 1 .5em;
+  margin: 0 .5em;
   width: 3em;
 }
 
